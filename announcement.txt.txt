@@ -1,0 +1,10 @@
+SnowRunner Türkçe Yama Güncellemesi
+
+SnowRunner Türkçe Yama’nın v40.1 güncellemesi çıktı! bu güncelleme ile:
+
+Oyundaki tüm menüler, araçlar ve görevler güncel türkçe metinlerle optimize edildi
+Önceki sürümlerdeki çeviri hataları düzeltildi
+Yeni eklenen içerik ve DLC’ler türkçe olarak eklendi
+Launcher üzerinden otomatik kurulum ve güncelleme desteği sağlandı
+
+Oyununuzu Türkçe deneyimlemek için yamanızı en son sürüme güncelleyin ve SnowRunner maceranızı kesintisiz devam ettirin!
