@@ -1,0 +1,11 @@
+{
+  "LatestVersion": "1.4.2",
+  "DownloadUrl": "https://github.com/Sungur358/SnowRunnerTR/blob/main/strings_english.str",
+  "Sha256": "PUT_THE_REAL_SHA256_HASH_OF_THE_FILE_HERE",
+  "IsEncrypted": false,
+  "ChangeLog": "- Yeni araç açıklamaları çevrildi\n- Görev metinlerindeki yazım hataları düzeltildi",
+  "ReleaseDate": "2026-07-20T00:00:00Z",
+  "Announcements": [
+    "Yeni harita güncellemesiyle birlikte çeviri %100 tamamlandı!"
+  ]
+}
